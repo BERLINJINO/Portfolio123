@@ -330,7 +330,6 @@ span {
 .about-img1 img {
     position: relative;
     border-radius: 50%;
-    border: .2rem solid var(--main-color);
     margin-top: 1.5cm;
     margin-left: 17cm;
 }
